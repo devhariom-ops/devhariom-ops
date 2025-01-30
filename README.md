@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Login/out session management**
+- 🔭 I’m currently working on **---------**
 
-- 🌱 I’m currently learning **Full stack web Development using PHP**
+- 🌱 I’m currently learning **---------------------**
 
 - 👨‍💻 All of my projects are available at [https://openworld.bsite.net](https://openworld.bsite.net)
 
