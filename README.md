@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jairamm&label=Profile+Views&color=7c6af7&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=devhariom-ops&label=Profile+Views&color=7c6af7&style=flat-square" />
 &nbsp;
 <a href="https://www.linkedin.com/in/hari-om-pandey-3349b0277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
@@ -31,15 +31,15 @@ const hariOm = {
   role:      "Full Stack Developer",
   skills:    ["Java", "Node.js", "PHP", "Servlets", "JSP", "Web Dev"],
   portfolio: "https://openworld.bsite.net",
-  blog:      "notesbyhariom.durable.com",
-  contact:   "harharom108@gmail.com"
+<!--  blog:      "notesbyhariom.durable.com",-->
+  contact:   "pandeyhariom752@gmail.com"
 };
 ```
 
-- 🔭 Check out my projects → **[openworld.bsite.net](https://openworld.bsite.net)**
-- 📝 I write dev articles at **[notesbyhariom.durable.com](https://notesbyhariom.durable.com)**
+<!-- 🔭 Check out my projects → **[openworld.bsite.net](https://openworld.bsite.net)**
+<!-- 📝 I write dev articles at **[notesbyhariom.durable.com](https://notesbyhariom.durable.com)**
 - 💬 Ask me about **Servlets, JSP, Node.js & Web Development**
-- 📫 Reach me at **harharom108@gmail.com**
+- 📫 Reach me at **harharom108@gmail.com**-->
 
 ---
 
