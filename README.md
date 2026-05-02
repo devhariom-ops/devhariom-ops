@@ -73,12 +73,12 @@ const hariOm = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jairamm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jairamm&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devhariom-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devhariom-ops&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairamm&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhariom-ops&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -86,7 +86,7 @@ const hariOm = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jairamm&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=devhariom-ops&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
 </div>
 
 ---
