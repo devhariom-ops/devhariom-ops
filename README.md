@@ -24,17 +24,16 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+javascript
 const hariOm = {
   name:      "Hari Om Pandey",
   location:  "India 🇮🇳",
   role:      "Full Stack Developer",
   skills:    ["Java", "Node.js", "PHP", "Servlets", "JSP", "Web Dev"],
   portfolio: "https://openworld.bsite.net",
-<!--  blog:      "notesbyhariom.durable.com",-->
   contact:   "pandeyhariom752@gmail.com"
 };
-```
+
 
 <!-- 🔭 Check out my projects → **[openworld.bsite.net](https://openworld.bsite.net)**
 <!-- 📝 I write dev articles at **[notesbyhariom.durable.com](https://notesbyhariom.durable.com)**
