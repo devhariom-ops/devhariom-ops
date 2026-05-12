@@ -74,15 +74,17 @@ const hariOm = {
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=devhariom-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
-https://github-readme-streak-stats.herokuapp.com/?username=devhariom-ops&theme=tokyonight&hide_border=true
+<img src="https://github-readme-stats.vercel.app/api?username=devhariom-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devhariom-ops&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-https://github-readme-stats.vercel.app/api/top-langs/?username=devhariom-ops&layout=compact&theme=tokyonight&hide_border=true
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhariom-ops&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🏆 Trophies
