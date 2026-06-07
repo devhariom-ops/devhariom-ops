@@ -72,7 +72,7 @@ const hariOm = {
 
 ## 🏆 Trophies
 
-<div align="center">
+<!- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devhariom-ops&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 </div>
 
@@ -83,4 +83,4 @@ const hariOm = {
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"
   />
-</div>
+</div> 
