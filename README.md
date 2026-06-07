@@ -70,8 +70,7 @@ const hariOm = {
 ---
 
 
-
-## 🏆 Trophies
+ 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devhariom-ops&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
